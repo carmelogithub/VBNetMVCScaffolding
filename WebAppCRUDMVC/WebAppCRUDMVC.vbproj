@@ -199,6 +199,7 @@
     <Compile Include="App_Start\Startup.Auth.vb" />
     <Compile Include="Controllers\AccountController.vb" />
     <Compile Include="Controllers\ManageController.vb" />
+    <Compile Include="DataAccessLayer\EscuelaDataBaseContext.vb" />
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
